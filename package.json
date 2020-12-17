@@ -1,0 +1,25 @@
+{
+  "name": "digikids-fend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resouces.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badeyemo/digikids-fend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badeyemo/digikids-fend/issues"
+  },
+  "homepage": "https://github.com/badeyemo/digikids-fend#readme",
+  "dependencies": {
+    "jsonschema": "^1.4.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
